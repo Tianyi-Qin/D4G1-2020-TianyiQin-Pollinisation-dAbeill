@@ -163,37 +163,13 @@ body {
     flex-direction: row | row-reverse | column | column-reverse;
   }
 
-  #etape {
-    font-size: 3em;
-    color: #1fda9a;
-  }
-
   #text2 {
     margin-top: 8em;
   }
 
-  #video0 {
-    justify-content: center;
-  }
-
-  #video1 {
+  .video {
     margin-top: 80px;
     margin-bottom: 80px;
-    background: #e5e5e5;
-  }
-
-  #video2 {
-    margin-left: 8em;
-    background: #e5e5e5;
-  }
-
-  #video3 {
-    margin-left: 8em;
-    background: #e5e5e5;
-  }
-
-  #video4 {
-    margin-left: 8em;
     background: #e5e5e5;
   }
 
