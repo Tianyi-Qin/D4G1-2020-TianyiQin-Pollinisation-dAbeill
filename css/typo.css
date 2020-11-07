@@ -25,10 +25,6 @@ header h2 {
   margin-left: 80px;
 }
 
-.toggle-menu {
-  font-family: 'Roboto', sans-serif;
-}
-
 .option ul {
   color: white;
 }
@@ -44,14 +40,18 @@ header h2 {
   color: #666666;
   text-align: left;
   line-height: 30px;
+  justify-content: center;
 }
 
 .footer {
+  color: #1fda9a;
+  font-family: 'Montserrat', sans-serif, Thin;
   padding-top: 20px;
+  line-height: 30px;
 }
 
 #main-menu {
-  font-family: 'Secular One', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1em;
   padding-top: 2em;
 }
@@ -78,29 +78,6 @@ section h2 {
   font-family: 'Roboto', sans-serif;
   font-size: 3em;
   color: #1fda9a;
-}
-
-#texte1 {
-  font-family: 'Montserrat', sans-serif, Light;
-  margin-left: 6em;
-  margin-right: 6em;
-}
-
-#texte2 {
-  font-family: 'Montserrat', sans-serif, Thin;
-  color: #666666;
-  padding: 3em;
-  line-height: 30px;
-  justify-content: center;
-  max-width: 1000px;
-  margin-left: 6em;
-  margin-right: 6em;
-}
-
-#main-footer {
-  font-family: 'Secular One', sans-serif;
-  font-size: 1em;
-  padding-top: 2em;
 }
 
 .nav {
