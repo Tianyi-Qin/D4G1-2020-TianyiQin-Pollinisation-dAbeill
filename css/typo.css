@@ -73,9 +73,11 @@ section h2 {
   font-size: 1.5em;
 }
 
-#etape {
+.etape {
   margin-top: 100px;
   font-family: 'Roboto', sans-serif;
+  font-size: 3em;
+  color: #1fda9a;
 }
 
 #texte1 {
